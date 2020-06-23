@@ -23,3 +23,6 @@ like Codeforces , Hackerrank, Hackerearth , Codechef , Spoj etc.
  ### We have added a "Discuss Forum" for each Problem
    Here you can discuss solutions with people and comment new ideas 
    to solve that Problem.
+Here are some of the screenshots:
+
+![Screenshot (60)](https://user-images.githubusercontent.com/43809818/85369436-bd846800-b54a-11ea-8cea-9c05114e205a.png)
